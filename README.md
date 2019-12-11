@@ -12,12 +12,19 @@ $ python test.py
 ## File and Folder description
 
 [file]
+
 test.py : Execute calibration and rectification by using sample images
+
 src/CalibrationRectification.py : main source
 
+
 [folder] 
+
 calibration : chess board images for calibration 1920x1080(HD1080)
+
 documentation : this documentation is from reference.
+
 sample : sample images(in my case, box)
+
 src : include main source file
 
